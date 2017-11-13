@@ -8,33 +8,22 @@ This repo is for collecting issues and feature requests for [Humio](https://humi
 
 ## Submitting an Bug Report
 
-Great bug reports include as much information as possible to help reproduce the problem. 
-Also try to provide as much information as possible, examples are:
+When submitting bug reports, the more info you add, the faster we can reproduce and fix the bug.
+
+Examples of info that could be relevant:
 
 - Humio Version
 - Browser Version
 - API
 - Query Examples
+- Screeshots
+- Videos
 
-Providing videos and screenshots help us enourmously in understanding the problem and tracking down
-the cause.
+## Providing Feedback and Request Features
 
-## Submitting a Feature Request
+Getting feedback from our users are of key importance to us. So, if you have feedback you can create an issue here, send a mail to support@humio.com, or message us on Slack.
 
-Feature requests are important to us. We cannot promise that your request will making into
-Humio, but is a good indication of what our community and customers need. Feel free to show
-support on a feature request by clicking :+1:.
+If you have concrete feature request, create an issue describing the feature or use-case you would like Humio to better support.
 
-Great feature requests will include all the info you might find in a [user story](https://en.wikipedia.org/wiki/User_story).
-We want to know what type of user would benefit from the feature and all the changes
-that would be needed to accomplish the goal.
-
-## Submitting a Usability Issue
-
-We want Humio to be the easiest-to-use way searching and getting value out of your logs. If you
-find something difficult or awkward you should definitely let us know by
-opening an issue. Good usability issues will include a thorough explanation of why
-something is hard to use. _Great_ usability issues will also include one or more
-suggestions about how the experience can be improved.
 
 Thank you!
