@@ -19,10 +19,6 @@ Examples of info that could be relevant:
 - Screeshots
 - Videos
 
-## Linking to issues in this repository from other GitHub repositories
-
-GitHub is providing a very neat `org/repo#42` notation for linking to issues outside of the current repository, for instance humio/issues#1
-
 ## Providing Feedback and Request Features
 
 Getting feedback from our users are of key importance to us. So, if you have feedback you can create an issue here, send a mail to support@humio.com, or message us on Slack.
