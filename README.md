@@ -1,3 +1,5 @@
+<img src="https://slackin-qohevsbcuo.now.sh/badge.svg">
+
 # Humio Issue Tracker
 
 This repo is for collecting issues and feature requests for [Humio](https://humio.com)
