@@ -4,6 +4,8 @@
 
 This repo is for collecting issues and feature requests for [Humio](https://humio.com)
 
+[Click Here](https://github.com/humio/issues/issues) to go to the issue tracker.
+
 ## Submitting an Bug Report
 
 Great bug reports include as much information as possible to help reproduce the problem. 
