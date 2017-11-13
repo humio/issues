@@ -4,7 +4,7 @@
 
 This repo is for collecting issues and feature requests for [Humio](https://humio.com)
 
-[Click Here](https://github.com/humio/issues/issues) to go to the issue tracker.
+Feel free to dive into our [issue tracker](https://github.com/humio/issues/issues).
 
 ## Submitting an Bug Report
 
@@ -19,11 +19,15 @@ Examples of info that could be relevant:
 - Screeshots
 - Videos
 
+## Linking to issues in this repository from other GitHub repositories
+
+GitHub is providing a very neat `org/repo#42` notation for linking to issues outside of the current repository, for instance humio/issues#1
+
 ## Providing Feedback and Request Features
 
 Getting feedback from our users are of key importance to us. So, if you have feedback you can create an issue here, send a mail to support@humio.com, or message us on Slack.
 
 If you have concrete feature request, create an issue describing the feature or use-case you would like Humio to better support.
 
-
 Thank you!
+
