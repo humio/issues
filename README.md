@@ -16,7 +16,7 @@ Examples of info that could be relevant:
 - Browser Version
 - API
 - Query Examples
-- Screeshots
+- Screenshots
 - Videos
 
 ## Providing Feedback and Request Features
