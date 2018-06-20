@@ -1,4 +1,4 @@
-<a alt="Join the Humio Community Slack" href="https://slackin-qohevsbcuo.now.sh/"><img src="https://slackin-qohevsbcuo.now.sh/badge.svg"></a>
+<a alt="Join the Humio Community Slack" href="https://community.humio.com/"><img src="https://community.humio.com/badge.svg"></a>
 
 # Humio Issue Tracker
 
