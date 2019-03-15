@@ -4,5 +4,5 @@ The more info, the faster we will be able to fix it...
 * Browser Version
 * API
 * Query Examples
-* Screeshots
+* Screnshots
 * Videos
