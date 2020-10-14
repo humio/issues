@@ -2,11 +2,7 @@
 
 # Humio Issue Tracker
 
-This repo is for collecting issues and feature requests for [Humio](https://humio.com)
-
-Feel free to dive into our [issue tracker](https://github.com/humio/issues/issues).
-
-## Submitting an Bug Report
+This repo is no longer being actively maintained. Moving forward, we ask that you please report bugs and make and feature requests via our support desk at support@humio.com.
 
 When submitting bug reports, the more info you add, the faster we can reproduce and fix the bug.
 
@@ -19,11 +15,5 @@ Examples of info that could be relevant:
 - Screenshots
 - Videos
 
-## Providing Feedback and Request Features
-
-Getting feedback from our users are of key importance to us. So, if you have feedback you can create an issue here, send a mail to support@humio.com, or message us on Slack.
-
-If you have concrete feature request, create an issue describing the feature or use-case you would like Humio to better support.
-
-Thank you!
+When submitting a feature request, please let us know more about your use case and how this new feature will impact your usage and engagement with Humio. 
 
