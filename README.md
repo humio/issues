@@ -9,11 +9,10 @@ When submitting bug reports, the more info you add, the faster we can reproduce 
 Examples of info that could be relevant:
 
 - Humio Version
-- Browser Version
-- API
+- Error Logs
 - Query Examples
-- Screenshots
-- Videos
+- Information about your config
+- Screenshots/Videos
 
 When submitting a feature request, please let us know more about your use case and how this new feature will impact your usage and engagement with Humio. 
 
